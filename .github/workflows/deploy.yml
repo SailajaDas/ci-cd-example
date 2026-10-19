@@ -1,10 +1,9 @@
 name: Spring Boot build and deploy
 
-'on':
+on:
  push:
   branches:
-   - main
-			
+    - main	
 env:
  IMAGE_NAME: spring-boot-web
 
