@@ -1,6 +1,6 @@
 name: Spring Boot build and deploy
 
-on:
+'on':
  push:
   branches:
    - main
